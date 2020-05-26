@@ -7,6 +7,7 @@ Released 05.26.20
 - Fixed changelog link in footer
 
 <br>
+<br>
 
 [1.0.1] <br>
 Released 05.26.20
