@@ -2,15 +2,15 @@
 All notable changes to this project will be documented in this file.
 
 <br>
->[1.0.2]
->Released 05.26.20
+[1.0.2]
+Released 05.26.20
 
 <br>
 
 - Fixed changelog link in footer
 
->[1.0.1]
->Released 05.26.20
+[1.0.1]
+Released 05.26.20
 
 <br>
 
