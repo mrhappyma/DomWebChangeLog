@@ -9,6 +9,8 @@ Released 05.26.20
 
 - Fixed changelog link in footer
 
+<br>
+
 [1.0.1]
 Released 05.26.20
 
