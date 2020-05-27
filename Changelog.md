@@ -3,6 +3,15 @@ All notable changes to this project will be documented in this file.
 
 <br>
 
+[1.0.3] <br>
+Relesed 05.27.20
+<br>
+- Removed old subscribe embed parry gripp page
+
+
+<br>
+<br>
+
 [1.0.2] <br>
 Released 05.26.20
 <br>
