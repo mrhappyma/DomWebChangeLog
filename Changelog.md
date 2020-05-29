@@ -3,6 +3,16 @@ All notable changes to this project will be documented in this file.
 
 <br>
 
+[1.2.0] <br>
+Released 05.29.20
+<br>
+- Removed Artibot
+- Removed Purechat Window
+- Added Albert
+
+<br>
+<br>
+
 [1.0.3] <br>
 Relesed 05.27.20
 <br>
