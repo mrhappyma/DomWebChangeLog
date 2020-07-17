@@ -3,6 +3,15 @@ All notable changes to this project will be documented in this file.
 
 <br>
 
+[1.2.1] <br>
+Released 7.17.20
+<br>
+- Updated footer
+- Adjusted chat size
+
+<br>
+<br>
+
 [1.2.0] <br>
 Released 05.29.20
 <br>
